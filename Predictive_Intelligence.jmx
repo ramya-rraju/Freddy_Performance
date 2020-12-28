@@ -355,7 +355,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">/Users/raraju/Documents/Performance/ViewResultsTree.csv</stringProp>
+        <stringProp name="filename"></stringProp>
         <boolProp name="ResultCollector.success_only_logging">true</boolProp>
       </ResultCollector>
       <hashTree/>
@@ -430,7 +430,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">/Users/raraju/Documents/Performance/Report.csv</stringProp>
+        <stringProp name="filename">Tickets_DNA_Report.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
@@ -900,7 +900,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/Users/raraju/Documents/Performance/CRS_Repost.csv</stringProp>
+          <stringProp name="filename">CRS_Report.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
