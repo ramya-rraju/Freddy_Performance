@@ -72,7 +72,7 @@
           </HeaderManager>
           <hashTree/>
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-            <stringProp name="filename">../test_data.csv</stringProp>
+            <stringProp name="filename">${WORKSPACE}/test_data.csv</stringProp>
             <stringProp name="fileEncoding"></stringProp>
             <stringProp name="variableNames">subject,description,email,status,priority</stringProp>
             <boolProp name="ignoreFirstLine">false</boolProp>
@@ -566,7 +566,7 @@
           </HeaderManager>
           <hashTree/>
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-            <stringProp name="filename">../test_data.csv</stringProp>
+            <stringProp name="filename">${WORKSPACE}/test_data.csv</stringProp>
             <stringProp name="fileEncoding"></stringProp>
             <stringProp name="variableNames">subject,description,email,status,priority</stringProp>
             <boolProp name="ignoreFirstLine">false</boolProp>
